@@ -173,7 +173,6 @@ smali	CS2SM	  转Smail标识
 如遇到问题欢迎私信或邮件反馈
 有更好的建议欢迎提出来，尽快改进
 By Jermic
-```
 
 Email:Jermic@qq.com
-**链接: [网盘下载](https://pan.baidu.com/s/1mhWpG60) 密码: 9k5k**
+```
