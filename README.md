@@ -155,9 +155,11 @@ smali	CS2SM	  转Smail标识
 9.设置面板可更换默认apktool工具i
 
 10.最重要的一点是，请注意使用部分功能时，输出文件如果存在会覆盖掉并不会做提示
+```
 
-历史版本:
 
+### 历史版本:
+```
 2016年08月02日    AndroidCrackTool 2.4 (For MAC)
 
 2016年05月09日    AndroidCrackTool 2.3.2 (For MAC)
