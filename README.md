@@ -14,9 +14,9 @@ Android-Crack-Tool
 - CS2SM
 
 ## 截图
-![](http://diycode.b0.upaiyun.com/photo/2016/11b0d05f0155c0de1aef587d11b5a1f6.png)
-![](http://diycode.b0.upaiyun.com/photo/2016/8a3b1a71b6bd0e40cda9abfea6e2fff2.png)
-![](http://diycode.b0.upaiyun.com/photo/2016/a5508a976032fd4c21f6ea554b9f4e7d.png)
+![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/1.png)
+![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/4.png)
+![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/5.png
 
 # 版本更新:
 
