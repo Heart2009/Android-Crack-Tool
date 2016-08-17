@@ -1,7 +1,6 @@
 Android-Crack-Tool
-=================
+================
 ##简介
-
 ##本软件集成了Android开发中常见的一些编译/反编译工具,方便用户对Apk进行逆向分析,提供Apk信息查看功能.目前主要功能包括(详细使用方法见使用说明):
 - 反编译APK
 - 重建APK
@@ -13,10 +12,12 @@ Android-Crack-Tool
 - XML
 - CS2SM
 
+##[下载地址](https://github.com/Jermic/Android-Crack-Tool/releases)
+
 ## 截图
 ![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/1.png)
 ![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/4.png)
-![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/5.png
+![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/5.png)
 
 # 版本更新:
 
